@@ -1,0 +1,2 @@
+The module provides Perfecto tokens from a local file storage. 
+The path to the file storing the tokens must be set in environment variable PERFECTO_TOKEN_STORAGE or placed in a securityTokens.json" file in the user home directory
